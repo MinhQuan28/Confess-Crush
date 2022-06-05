@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "Tỏ tình",
-    introTitle: 'Phạm Thị Lan Anh',
+    introTitle: 'Vũ Công Doanh',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
@@ -16,4 +16,4 @@ const CONFIG = {
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: m.me/ks.voyeu
+    messLink: 'https://www.facebook.com/ks.voyeu'
